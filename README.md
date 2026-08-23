@@ -2,14 +2,11 @@
 
 > Prototipo de tienda web **mobile-first** para pequeños comercios, diseñado para consultar productos, filtrar el catálogo, gestionar un carrito de compras y preparar pedidos mediante WhatsApp.
 
-/ 
-/
-/
-/
-/
-![Vista principal de Shaddai's Shop](assets/images/home.jpg)
-
-
+<p align="center">
+  <img src="assets/images/home.jpg" width="250">
+  <img src="assets/images/filtros.jpg" width="250">
+  <img src="assets/images/carrito.jpg" width="250">
+</p>
 
 ### 🌐 Shaddai's Shop · [▶ Probar la demo en vivo](https://dar003.github.io/Shaddai-s-Shop-Prototipo-de-Ventas/)
 
@@ -141,11 +138,19 @@ Vista principal orientada a descubrir productos rápidamente.
 
 **Catálogo — productos, precios, valoraciones y acciones de compra**
 
+![Catálogo de productos](assets/images/home.jpg)
+
+---
+
 ### 🔎 Búsqueda y filtros
 
 Herramientas para encontrar productos específicos sin recorrer manualmente todo el catálogo.
 
 **Search & Filters — búsqueda, categorías, etiquetas, precio y presentación**
+
+![Búsqueda y filtros](assets/images/filtros.jpg)
+
+---
 
 ### 🧺 Carrito
 
@@ -153,11 +158,19 @@ Panel lateral dedicado a revisar los productos seleccionados antes del checkout.
 
 **Shopping Cart — cantidades, subtotales y total**
 
+![Carrito de compras](assets/images/carrito.jpg)
+
+---
+
 ### 💱 Conversión de moneda
 
 La tasa USD/VES puede modificarse desde la interfaz y se refleja en los cálculos de la tienda.
 
 **Currency Rate — conversión dinámica USD → VES**
+
+![Conversión USD VES](assets/images/tasa.jpg)
+
+---
 
 ### 📲 Pedido
 
@@ -165,7 +178,7 @@ El checkout transforma el contenido del carrito en un mensaje estructurado para 
 
 **WhatsApp Checkout — resumen automático del pedido**
 
-> 💡 Las capturas de pantalla definitivas pueden añadirse posteriormente en `assets/screenshots/` para mostrar estas secciones directamente en la portada del repositorio.
+![Checkout de WhatsApp](assets/images/checkout.jpg)
 
 ---
 
