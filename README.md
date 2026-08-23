@@ -2,13 +2,6 @@
 
 > Prototipo de tienda web **mobile-first** para pequeños comercios, diseñado para consultar productos, filtrar el catálogo, gestionar un carrito de compras y preparar pedidos mediante WhatsApp.
 
-\
-\
-\
-\
-\
-\
-
 
 ### 🌐 Shaddai's Shop · [▶ Probar la demo en vivo](https://dar003.github.io/Shaddai-s-Shop-Prototipo-de-Ventas/)
 
