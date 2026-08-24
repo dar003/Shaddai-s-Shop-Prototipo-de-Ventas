@@ -34,46 +34,30 @@
 
 <table align="center" style="border-collapse: collapse; width: 100%;">
   <tr>
-
     <td align="center" width="33%" style="border: 1px solid #444; padding: 16px; vertical-align: top;">
-
-      <img src="assets/images/home.png"
+      <img src="assets/images/home.jpg"
            width="85%"
            alt="Home">
-
       <br><br>
-
       <strong>Home</strong><br>
       Catálogo y productos
-
     </td>
-
     <td align="center" width="33%" style="border: 1px solid #444; padding: 16px; vertical-align: top;">
-
-      <img src="assets/images/carrito.png"
+      <img src="assets/images/carrito.jpg"
            width="85%"
            alt="Carrito">
-
       <br><br>
-
       <strong>Carrito</strong><br>
       Productos y pedido
-
     </td>
-
     <td align="center" width="33%" style="border: 1px solid #444; padding: 16px; vertical-align: top;">
-
-      <img src="assets/images/checkout.png"
+      <img src="assets/images/checkout.jpg"
            width="85%"
            alt="Checkout">
-
       <br><br>
-
       <strong>Checkout</strong><br>
       Pedido por WhatsApp
-
     </td>
-
   </tr>
 </table>
 
