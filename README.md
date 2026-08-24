@@ -28,12 +28,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="assets/images/home.jpg" width="150">
-  <img src="assets/images/filtros.jpg" width="150">
-  <img src="assets/images/carrito.jpg" width="150">
-</p>
-
 
 <p align="center">
   <img src="assets/images/home.jpg" width="150">
