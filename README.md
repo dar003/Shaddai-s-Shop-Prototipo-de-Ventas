@@ -4,8 +4,7 @@
 
 <p align="center">
 
-![Self Hosted](https://img.shields.io/badge/self--hosted-%F0%9F%8F%A0-45D62C?style=flat-square&labelColor=555)(https://github.com/dar003/Shaddai-s-Shop-Prototipo-de-Ventas/commits/main)
-
+![Self Hosted](https://img.shields.io/badge/self--hosted-%F0%9F%8F%A0-45D62C?style=flat-square&labelColor=555)
 [![Stars](https://img.shields.io/github/stars/dar003/Shaddai-s-Shop-Prototipo-de-Ventas?style=flat-square)](https://github.com/dar003/Shaddai-s-Shop-Prototipo-de-Ventas/stargazers)
 [![Issues](https://img.shields.io/github/issues/dar003/Shaddai-s-Shop-Prototipo-de-Ventas?style=flat-square)](https://github.com/dar003/Shaddai-s-Shop-Prototipo-de-Ventas/issues)
 
