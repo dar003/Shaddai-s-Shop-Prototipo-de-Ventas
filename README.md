@@ -2,6 +2,7 @@
 
 > Prototipo de tienda web **mobile-first** para pequeños comercios y emprendimientos, diseñado para consultar productos, filtrar el catálogo, gestionar un carrito de compras y preparar pedidos mediante pagos rápidos efectuados de inmediato vía WhatsApp.
 
+
 <p align="center">
   <a href="https://github.com/dar003/Shaddai-s-Shop-Prototipo-de-Ventas">
   <img src="https://img.shields.io/badge/self--hosted-🏠-4CAF50?style=flat-square" alt="Self Hosted">
@@ -31,11 +32,50 @@
 </p>
 
 
-<p align="center">
-  <img src="assets/images/home.jpg" width="150">
-  <img src="assets/images/filtros.jpg" width="150">
-  <img src="assets/images/carrito.jpg" width="150">
-</p>
+<table align="center" style="border-collapse: collapse; width: 100%;">
+  <tr>
+
+    <td align="center" width="33%" style="border: 1px solid #444; padding: 16px; vertical-align: top;">
+
+      <img src="assets/images/home.png"
+           width="85%"
+           alt="Home">
+
+      <br><br>
+
+      <strong>Home</strong><br>
+      Catálogo y productos
+
+    </td>
+
+    <td align="center" width="33%" style="border: 1px solid #444; padding: 16px; vertical-align: top;">
+
+      <img src="assets/images/carrito.png"
+           width="85%"
+           alt="Carrito">
+
+      <br><br>
+
+      <strong>Carrito</strong><br>
+      Productos y pedido
+
+    </td>
+
+    <td align="center" width="33%" style="border: 1px solid #444; padding: 16px; vertical-align: top;">
+
+      <img src="assets/images/checkout.png"
+           width="85%"
+           alt="Checkout">
+
+      <br><br>
+
+      <strong>Checkout</strong><br>
+      Pedido por WhatsApp
+
+    </td>
+
+  </tr>
+</table>
 
 
 ### 🌐 Shaddai's Shop · [▶ Probar la demo en vivo](https://dar003.github.io/Shaddai-s-Shop-Prototipo-de-Ventas/)
