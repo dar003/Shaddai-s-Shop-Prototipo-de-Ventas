@@ -3,7 +3,7 @@
 > Prototipo de tienda web **mobile-first** para pequeños comercios y emprendimientos, diseñado para consultar productos, filtrar el catálogo, gestionar un carrito de compras y preparar pedidos mediante pagos rápidos efectuados de inmediato vía WhatsApp.
 
 <p align="center">
-[![License](https://img.shields.io/github/license/dar003/Shaddai-s-Shop-Prototipo-de-Ventas?style=flat-square)](https://github.com/dar003/Shaddai-s-Shop-Prototipo-de-Ventas)
+
 [![Last Commit](https://img.shields.io/github/last-commit/dar003/Shaddai-s-Shop-Prototipo-de-Ventas?style=flat-square)](https://github.com/dar003/Shaddai-s-Shop-Prototipo-de-Ventas/commits/main)
 [![Stars](https://img.shields.io/github/stars/dar003/Shaddai-s-Shop-Prototipo-de-Ventas?style=flat-square)](https://github.com/dar003/Shaddai-s-Shop-Prototipo-de-Ventas/stargazers)
 [![Issues](https://img.shields.io/github/issues/dar003/Shaddai-s-Shop-Prototipo-de-Ventas?style=flat-square)](https://github.com/dar003/Shaddai-s-Shop-Prototipo-de-Ventas/issues)
@@ -15,6 +15,7 @@
 ![Mobile First](https://img.shields.io/badge/Mobile--First-Optimized-006B4D?style=flat-square)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-Checkout-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-222?style=flat-square&logo=github)
+
 </p>
 
 <p align="center">
