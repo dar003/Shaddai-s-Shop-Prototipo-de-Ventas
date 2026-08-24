@@ -520,6 +520,6 @@ Actualmente el repositorio no especifica una licencia de software.
 ---
 
 <p align="center">
-&#x20; \<strong>🛍️ Shaddai's Shop\</strong>\<br>
+&#x20; <strong>🛍️ Shaddai's Shop</strong><br>
 &#x20; Tienda web · Mobile-first · USD / VES · WhatsApp
 </p>
