@@ -7,6 +7,7 @@
   <a href="https://github.com/dar003/Shaddai-s-Shop-Prototipo-de-Ventas">
   <img src="https://img.shields.io/badge/self--hosted-🏠-4CAF50?style=flat-square" alt="Self Hosted">
   <img src="https://img.shields.io/badge/status-in%20development-F59E0B?style=flat-square" alt="Status">
+    
   <img src="https://img.shields.io/badge/Mobile--First-Optimized-006B4D?style=flat-square" alt="Mobile First">
   <img src="https://img.shields.io/badge/Deploy-GitHub%20Pages-222?style=flat-square&logo=github" alt="GitHub Pages">
   </a>
@@ -36,7 +37,7 @@
   <tr>
     <td align="center" width="33%" style="border: 1px solid #444; padding: 16px; vertical-align: top;">
       <img src="assets/images/home.jpg"
-           width="85%"
+           width="80%"
            alt="Home">
       <br><br>
       <strong>Home</strong><br>
@@ -44,7 +45,7 @@
     </td>
     <td align="center" width="33%" style="border: 1px solid #444; padding: 16px; vertical-align: top;">
       <img src="assets/images/carrito.jpg"
-           width="85%"
+           width="80%"
            alt="Carrito">
       <br><br>
       <strong>Carrito</strong><br>
@@ -52,7 +53,7 @@
     </td>
     <td align="center" width="33%" style="border: 1px solid #444; padding: 16px; vertical-align: top;">
       <img src="assets/images/checkout.jpg"
-           width="85%"
+           width="80%"
            alt="Checkout">
       <br><br>
       <strong>Checkout</strong><br>
