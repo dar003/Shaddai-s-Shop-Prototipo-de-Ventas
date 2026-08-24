@@ -6,6 +6,8 @@
   <a href="https://github.com/dar003/Shaddai-s-Shop-Prototipo-de-Ventas">
   <img src="https://img.shields.io/badge/self--hosted-🏠-4CAF50?style=flat-square" alt="Self Hosted">
   <img src="https://img.shields.io/badge/status-in%20development-F59E0B?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Mobile--First-Optimized-006B4D?style=flat-square" alt="Mobile First">
+  <img src="https://img.shields.io/badge/Deploy-GitHub%20Pages-222?style=flat-square&logo=github" alt="GitHub Pages">
   </a>
 </p>
 
