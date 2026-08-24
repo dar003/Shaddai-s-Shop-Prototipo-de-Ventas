@@ -1,6 +1,7 @@
 # 🛍️ Shaddai's Shop
 
-> Prototipo de tienda web **mobile-first** para pequeños comercios, diseñado para consultar productos, filtrar el catálogo, gestionar un carrito de compras y preparar pedidos mediante WhatsApp.
+> Prototipo de tienda web **mobile-first** para pequeños comercios y emprendimientos, diseñado para consultar productos, filtrar el catálogo, gestionar un carrito de compras y preparar pedidos mediante pagos rápidos efectuados de inmediato vía WhatsApp.
+
 
 <p align="center">
   <img src="assets/images/home.jpg" width="250">
@@ -8,11 +9,12 @@
   <img src="assets/images/carrito.jpg" width="250">
 </p>
 
+
 ### 🌐 Shaddai's Shop · [▶ Probar la demo en vivo](https://dar003.github.io/Shaddai-s-Shop-Prototipo-de-Ventas/)
 
 Una experiencia de compra ligera y optimizada para dispositivos móviles.
 
-No requiere instalación de dependencias ni un proceso de compilación para ejecutar el prototipo: la aplicación está implementada actualmente en un único `index.html`.
+No requiere instalación de dependencias, tampoco de un proceso de compilación para ejecutar el prototipo: la aplicación está implementada actualmente en un único directorio `index.html`.
 
 ---
 
@@ -20,7 +22,7 @@ No requiere instalación de dependencias ni un proceso de compilación para ejec
 
 ### 🛍️ Catálogo de productos
 
-Visualiza los productos disponibles mediante una cuadrícula responsive con imagen, nombre, presentación, precio y valoración.
+Visualiza los productos disponibles mediante una cuadrícula responsive con imagen, nombre, presentación y precio. Además podrás apreciar la valoración de cada producto con calificaciones actualizadas en tiempo real.
 
 ### 🔎 Búsqueda rápida
 
@@ -41,7 +43,7 @@ Los filtros se aplican dinámicamente sobre el catálogo.
 
 ### ⭐ Valoraciones y productos destacados
 
-El catálogo incorpora valoraciones numéricas y una sección superior de productos destacados mediante un carrusel animado.
+El catálogo incorpora valoraciones numéricas y una sección superior de productos destacados mediante un carrusel animado ubicado en un mini banner que se localiza en la parte superior de la pantalla principal.
 
 ### 🧺 Carrito de compras
 
@@ -80,7 +82,7 @@ La tasa actual se muestra mediante un botón flotante que también permite edita
 
 El proceso de pago genera automáticamente un resumen del pedido con:
 
-- Número de pedido
+- Número de pedido - Generado de forma aleatoria
 - Productos seleccionados
 - Cantidades
 - Subtotales
@@ -88,7 +90,7 @@ El proceso de pago genera automáticamente un resumen del pedido con:
 - Total equivalente en VES
 - Tasa de conversión utilizada
 
-El resumen se prepara para ser enviado mediante WhatsApp.
+El resumen del detalle se prepara para ser enviado mediante WhatsApp.
 
 ### 🖼️ Vista ampliada de productos
 
@@ -96,7 +98,7 @@ Al seleccionar una tarjeta de producto se puede abrir una visualización ampliad
 
 ### 📱 Diseño Mobile-first
 
-La interfaz está diseñada principalmente para teléfonos y adapta sus componentes a diferentes tamaños de pantalla.
+La interfaz está diseñada principalmente para celulares y adapta sus componentes a diferentes tamaños de pantalla.
 
 La navegación utiliza paneles laterales, controles compactos y elementos táctiles pensados para dispositivos móviles.
 
@@ -383,7 +385,7 @@ El mensaje se codifica y se envía al flujo de WhatsApp disponible en el disposi
 
 La interfaz utiliza una identidad visual basada principalmente en:
 
-- Verde como color principal
+- Verde Esmeralda como color principal
 - Fondos claros
 - Tarjetas de productos
 - Controles redondeados
@@ -440,11 +442,11 @@ El proyecto continúa en desarrollo.
 - [x] Checkout mediante WhatsApp
 - [x] Visualización ampliada de productos
 - [x] Carrusel de productos destacados
+- [x] Separar HTML, CSS y JavaScript cuando el proyecto lo requiera
+- [x] Añadir capturas oficiales al README
 
 ### Próximas mejoras
 
-- [ ] Separar HTML, CSS y JavaScript cuando el proyecto lo requiera
-- [ ] Añadir capturas oficiales al README
 - [ ] Mejorar la gestión de datos de productos
 - [ ] Persistencia del carrito
 - [ ] Mejorar la experiencia de checkout
@@ -462,7 +464,7 @@ El proyecto continúa en desarrollo.
 
 Shaddai's Shop es actualmente un prototipo funcional que continúa evolucionando en diseño, experiencia de usuario y funcionalidades.
 
-Las características existentes pueden cambiar a medida que se incorporen nuevas versiones.
+Las características existentes pueden cambiar a medida que se incorporen nuevas versiones. La intención principal del proyecto actual es ofrecer un entorno funcional a pequeños negocios que buscan maneras de optimizar sus pedidos y obtener una mejor experiencia de usuario, permitiendo organizar y registrar los pedidos de manera rápida para la demanda requerida al momento de cada solicitud de un producto.
 
 ---
 
@@ -473,6 +475,10 @@ El proyecto se encuentra principalmente en desarrollo individual.
 Si encuentras un error, tienes una sugerencia o quieres proponer una mejora, puedes abrir un **Issue** en el repositorio.
 
 También puedes utilizar un **Pull Request** para proponer cambios concretos.
+
+Apreciaría tu sincera opinión sobre el proyecto y posibles maneras de escalarlo para hacerlo lo más óptimo posible para cada usuario, así juntos podremos contribuir al crecimiento de pequeños negocios en futuros sectores desarrollados y listos para cubrir la demanda de tecnologías y herramientas de automatización en la industria actual. 
+
+Siempre atento a sus comentarios ;)
 
 ---
 
@@ -510,11 +516,10 @@ Proyecto desarrollado como prototipo de una solución de comercio web orientada 
 
 Actualmente el repositorio no especifica una licencia de software.
 
-Si el proyecto se publica como código abierto, se recomienda añadir un archivo `LICENSE` con la licencia elegida.
 
 ---
 
-\<p align="center">
+<p align="center">
 &#x20; \<strong>🛍️ Shaddai's Shop\</strong>\<br>
-&#x20; Prototipo de tienda web · Mobile-first · USD / VES · WhatsApp
-\</p>
+&#x20; Tienda web · Mobile-first · USD / VES · WhatsApp
+</p>
