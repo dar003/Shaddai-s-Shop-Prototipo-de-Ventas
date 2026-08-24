@@ -18,6 +18,12 @@
 
 </p>
 
+<p align="center">
+  <img src="assets/images/home.jpg" width="150">
+  <img src="assets/images/filtros.jpg" width="150">
+  <img src="assets/images/carrito.jpg" width="150">
+</p>
+
 
 ### 🌐 Shaddai's Shop · [▶ Probar la demo en vivo](https://dar003.github.io/Shaddai-s-Shop-Prototipo-de-Ventas/)
 
