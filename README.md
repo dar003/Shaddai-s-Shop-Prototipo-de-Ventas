@@ -3,20 +3,37 @@
 > Prototipo de tienda web **mobile-first** para pequeños comercios y emprendimientos, diseñado para consultar productos, filtrar el catálogo, gestionar un carrito de compras y preparar pedidos mediante pagos rápidos efectuados de inmediato vía WhatsApp.
 
 <p align="center">
-
-![Self Hosted](https://img.shields.io/badge/self--hosted-%F0%9F%8F%A0-45D62C?style=flat-square&labelColor=555)
-[![Stars](https://img.shields.io/github/stars/dar003/Shaddai-s-Shop-Prototipo-de-Ventas?style=flat-square)](https://github.com/dar003/Shaddai-s-Shop-Prototipo-de-Ventas/stargazers)
-[![Issues](https://img.shields.io/github/issues/dar003/Shaddai-s-Shop-Prototipo-de-Ventas?style=flat-square)](https://github.com/dar003/Shaddai-s-Shop-Prototipo-de-Ventas/issues)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-![Mobile First](https://img.shields.io/badge/Mobile--First-Optimized-006B4D?style=flat-square)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-Checkout-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-222?style=flat-square&logo=github)
-
+  <a href="https://github.com/dar003/Shaddai-s-Shop-Prototipo-de-Ventas">
+  <img src="https://img.shields.io/badge/self--hosted-🏠-4CAF50?style=flat-square" alt="Self Hosted">
+  <img src="https://img.shields.io/badge/status-in%20development-F59E0B?style=flat-square" alt="Status">
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/WhatsApp-Checkout-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</p>
+
+<p align="center">
+  <a href="https://github.com/dar003/Shaddai-s-Shop-Prototipo-de-Ventas/commits/main">
+    <img src="https://img.shields.io/github/last-commit/dar003/Shaddai-s-Shop-Prototipo-de-Ventas?style=flat-square" alt="Last Commit">
+  </a>
+  <a href="https://github.com/dar003/Shaddai-s-Shop-Prototipo-de-Ventas/stargazers">
+    <img src="https://img.shields.io/github/stars/dar003/Shaddai-s-Shop-Prototipo-de-Ventas?style=flat-square" alt="Stars">
+  </a>
+  <a href="https://github.com/dar003/Shaddai-s-Shop-Prototipo-de-Ventas/issues">
+    <img src="https://img.shields.io/github/issues/dar003/Shaddai-s-Shop-Prototipo-de-Ventas?style=flat-square" alt="Issues">
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/images/home.jpg" width="150">
+  <img src="assets/images/filtros.jpg" width="150">
+  <img src="assets/images/carrito.jpg" width="150">
+</p>
+
 
 <p align="center">
   <img src="assets/images/home.jpg" width="150">
