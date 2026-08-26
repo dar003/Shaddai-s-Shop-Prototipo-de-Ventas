@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+    <title>Shaddai's Shop</title>
+        <!-- Estilos separados -->
+    <link rel="stylesheet" href="css/styles.css">
+
+</head>
+<body>
+
+    <header class="header">
+        <div class="header-left">
+            <button class="menu-btn" id="menuToggle" aria-label="Abrir menú">
+                ☰
+            </button>
+            <span class="header-title" id="headerTitle">🛍️ Shaddai's Shop</span>
+            <div class="header-search" id="headerSearch">
+                <input type="text" id="headerSearchInput" placeholder="Buscar productos..." autofocus>
+                <button class="close-search" id="closeHeaderSearch">✕</button>
+            </div>
+        </div>
+        <div class="header-right">
+            <button class="search-toggle" id="searchToggle" aria-label="Buscar">🔍</button>
+            <button class="cart-toggle" id="cartToggle" aria-label="Carrito">
+                🛒
+                <span class="cart-badge-float" id="cartBadgeFloat">0</span>
+            </button>
+        </div>
+    </header>
+
+    <section class="top-carousel-section" id="topCarouselSection">
+        <div class="top-carousel-title">
+            <i class="fas fa-fire" style="color:#e67e22;"></i> MÁS PEDIDOS
+        </div>
+        <div class="carousel-wrapper">
+            <div class="carousel-track" id="carouselTrack">
+                <!-- Los items se generan con JS -->
+            </div>
+        </div>
+    </section>
+
+    <div class="overlay" id="overlay"></div>
+
+    <aside class="sidebar" id="sidebar">
+<button class="sidebar-close" id="sidebarClose">✕</button>
+
+        <div class="sidebar-section">
+            <div class="rate-section">
+                <div class="rate-title">💱 Tasa del día</div>
+                <div class="rate-edit-row">
+                    <input type="number" id="sidebarRateInput" min="0.0001" step="0.01" inputmode="decimal" aria-label="Tasa del día">
+                    <button type="button" class="rate-save-btn" id="sidebarRateSave">Guardar</button>
+                </div>
+                <div class="rate-display" id="sidebarRateDisplay">1 USD = 293.00 VES</div>
+            </div>
+        </div>
+
+        <div class="sidebar-section">
+            <h3>Buscar</h3>
+            <input type="text" class="search-input" id="searchInput" placeholder="Buscar productos...">
+        </div>
+
+        <button type="button" class="inventory-menu-btn" id="inventoryToggle" aria-label="Abrir inventario">
+            <span class="inventory-menu-icon">📦</span>
+            <span>Inventario</span>
+        </button>
+
+        <div class="sidebar-section">
+            <h3>🛒 Carrito</h3>
+            <ul class="cart-list" id="cartList">
+                <li class="cart-empty">No hay productos en el carrito.</li>
+            </ul>
+            <div class="cart-total" id="cartTotal">Total: $0.00</div>
+            <button class="price-list-btn" id="priceListBtn">📋 Ver lista de precios</button>
+        </div>
+
+        <div class="sidebar-section">
+            <h3>Categorías</h3>
+            <div class="category-list" id="categoryList"></div>
+        </div>
+
+        <div class="sidebar-section">
+            <h3>Filtro por precio</h3>
+            <div class="price-slider-container">
+                <input type="range" id="priceSlider" min="0" max="100" step="0.5" value="100">
+                <div class="price-display">Precio máximo: $<span id="priceDisplay">100</span></div>
+            </div>
+            <div class="filter-toggle-wrap">
+                <button class="filter-toggle-btn" id="filterToggleBtn">Filtrar +</button>
+            </div>
+            <div class="filter-options" id="filterOptions">
+                <div class="filter-option" data-sort="price-asc">
+                    <span class="option-icon">📈</span> Menor a mayor precio
+                </div>
+                <div class="filter-option" data-sort="price-desc">
+                    <span class="option-icon">📉</span> Mayor a menor precio
+                </div>
+                <div class="filter-option" data-sort="best-offers">
+                    <span class="option-icon">⭐</span> Mejores ofertas
+                </div>
+                <div class="filter-label">🔢 Filtrar por gramos</div>
+                <div class="filter-units-group" id="filterUnitsGroup"></div>
+            </div>
+        </div>
+
+        <div class="sidebar-section">
+            <h3>Etiquetas</h3>
+            <div class="tag-list" id="tagList"></div>
+        </div>
+    </aside>
+
+    <div class="cart-overlay" id="cartOverlay"></div>
+
+    <aside class="cart-panel" id="cartPanel">
+        <div class="cart-panel-header">
+            <h2>🛒 Carrito</h2>
+            <button class="cart-panel-close" id="cartPanelClose">✕</button>
+        </div>
+        <ul class="cart-items-list" id="cartItemsList">
+            <li class="empty-cart-msg">No hay productos en el carrito.</li>
+        </ul>
+        <div class="cart-panel-total" id="cartPanelTotal">Total: $0.00</div>
+        <button class="checkout-btn" id="checkoutBtn">Proceder al pago</button>
+    </aside>
+
+    <main class="main-content">
+        <div class="products-grid" id="productsGrid"></div>
+        <div class="price-list-container" id="priceListContainer"></div>
+
+        <section class="inventory-view" id="inventoryView" aria-label="Inventario">
+            <div class="inventory-actions">
+                <button type="button" class="inventory-save-all-btn" id="saveInventoryAllBtn">
+                    💾 Guardar inventario
+                </button>
+            </div>
+
+            <div class="inventory-header">
+                <div>
+                    <h1>📦 Inventario</h1>
+                    <p>Consulta y modifica las unidades disponibles de cada producto.</p>
+                </div>
+                <div class="inventory-summary" id="inventorySummary">
+                    <button type="button" class="inventory-back-btn" id="inventoryBackBtn">← Volver a productos</button>
+                </div>
+            </div>
+            <div class="inventory-grid" id="inventoryGrid"></div>
+        </section>
+    </main>
+
+    <div class="image-modal" id="imageModal">
+        <img id="modalImage" src="" alt="Vista ampliada">
+    </div>
+
+    <button type="button" class="floating-rate-btn" id="floatingRateBtn" aria-label="Editar tasa del día">
+        <span class="floating-label">Tasa del día</span>
+        <span class="floating-value" id="floatingRateValue">293 VES</span>
+    </button>
+
+    <div class="rate-modal" id="rateModal" role="dialog" aria-modal="true" aria-labelledby="rateModalTitle">
+        <div class="rate-modal-card">
+            <h3 id="rateModalTitle">💱 Editar tasa del día</h3>
+            <p>Actualiza rápidamente la tasa utilizada para convertir los totales del carrito de USD a VES.</p>
+            <input type="number" id="rateModalInput" min="0.0001" step="0.01" inputmode="decimal" aria-label="Nueva tasa">
+            <div class="rate-modal-actions">
+                <button type="button" class="rate-cancel" id="rateModalCancel">Cancelar</button>
+                <button type="button" class="rate-save" id="rateModalSave">Guardar tasa</button>
+            </div>
+        </div>
+    </div>
+    <script src="js/app.js"></script>
+
+</body>
+</html>

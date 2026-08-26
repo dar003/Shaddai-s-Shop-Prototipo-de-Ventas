@@ -1,0 +1,299 @@
+[
+  {
+    "id": 1,
+    "nombre": "Papas Chips Tigo Original",
+    "categoria": "Papas",
+    "etiquetas": [
+      "original"
+    ],
+    "imagen": "https://inversionesloan.com/cdn/shop/files/Disenosintitulo_54.jpg?v=1752843347&width=800",
+    "unidades": 70,
+    "precio": 2.8,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 2,
+    "nombre": "Papas Chips Tigo BBQ",
+    "categoria": "Papas",
+    "etiquetas": [
+      "bbq"
+    ],
+    "imagen": "https://inversionesloan.com/cdn/shop/files/Disenosintitulo_55.jpg?v=1752843489&width=800",
+    "unidades": 70,
+    "precio": 2.8,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 3,
+    "nombre": "Papas Chips Tigo Queso",
+    "categoria": "Papas",
+    "etiquetas": [
+      "queso"
+    ],
+    "imagen": "https://inversionesloan.com/cdn/shop/files/Disenosintitulo_67.jpg?v=1752845838&width=800",
+    "unidades": 70,
+    "precio": 2.8,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 4,
+    "nombre": "Papas Chips Tigo Pizza",
+    "categoria": "Papas",
+    "etiquetas": [
+      "pizza"
+    ],
+    "imagen": "https://inversionesloan.com/cdn/shop/files/Disenosintitulo_66_ddd0282e-cb8b-4a20-98d3-1524260e3a35.jpg?v=1752845667&width=800",
+    "unidades": 70,
+    "precio": 2.8,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 5,
+    "nombre": "Papas Chips Tigo Crema Agria y cebolla",
+    "categoria": "Papas",
+    "etiquetas": [
+      "crema agria",
+      "cebolla"
+    ],
+    "imagen": "https://tumarket.com/static/img/products/7598986004455.jpg",
+    "unidades": 70,
+    "precio": 2.8,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 6,
+    "nombre": "Papas Chips Tigo Picante",
+    "categoria": "Papas",
+    "etiquetas": [
+      "picante"
+    ],
+    "imagen": "https://cdn.farmabien.com/web/media/202511/file_1762012821760_TIG022.png",
+    "unidades": 70,
+    "precio": 2.8,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 7,
+    "nombre": "Ruffles Queso",
+    "categoria": "Papas",
+    "etiquetas": [
+      "queso"
+    ],
+    "imagen": "https://superfreshmarket.com.ve/wp-content/uploads/2023/04/7591206114378.jpg",
+    "unidades": 36,
+    "precio": 2.1,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 8,
+    "nombre": "Ruffles Original",
+    "categoria": "Papas",
+    "etiquetas": [
+      "original"
+    ],
+    "imagen": "https://superfreshmarket.com.ve/wp-content/uploads/2021/02/ruffles-natural-125gr-Fresh.jpg",
+    "unidades": 36,
+    "precio": 2.1,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 9,
+    "nombre": "Tostones con sal TOM",
+    "categoria": "Tostones",
+    "etiquetas": [
+      "sal"
+    ],
+    "imagen": "https://triomcbo.com/wp-content/uploads/2025/06/D114-Platanitos-Tom-Toston-con-Sal-28g-Pequeno.jpg",
+    "unidades": 80,
+    "precio": 2.1,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 10,
+    "nombre": "Tostones con ajo TOM",
+    "categoria": "Tostones",
+    "etiquetas": [
+      "ajo"
+    ],
+    "imagen": "https://www.farmadon.com.ve/wp-content/uploads/2024/03/Tom-Toston-Con-Ajo-80Gr.-new.png",
+    "unidades": 80,
+    "precio": 2.1,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 11,
+    "nombre": "De Todito Resuelto",
+    "categoria": "Snacks",
+    "etiquetas": [
+      "mixto"
+    ],
+    "imagen": "https://www.farmadon.com.ve/wp-content/uploads/2025/08/De-Todito-Resuelto-110Gr.png",
+    "unidades": 110,
+    "precio": 1.5,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 12,
+    "nombre": "Cheesetris",
+    "categoria": "Snacks",
+    "etiquetas": [
+      "queso"
+    ],
+    "imagen": "https://www.librerialaalegria.com.ve/web/image/product.template/487114/image_1024?unique=3fc983a",
+    "unidades": 54,
+    "precio": 1.5,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 13,
+    "nombre": "Piruetas",
+    "categoria": "Galletas",
+    "etiquetas": [
+      "chocolate"
+    ],
+    "imagen": "https://www.farmadon.com.ve/wp-content/uploads/2025/08/Piruetas-Barquillas-Rellenas-De-Sabor-A-Choco-Avella-20Gr.png",
+    "unidades": 20,
+    "precio": 0.95,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 14,
+    "nombre": "Piruetas Grande",
+    "categoria": "Galletas",
+    "etiquetas": [
+      "chocolate"
+    ],
+    "imagen": "https://lh3.googleusercontent.com/EiK8bGMW-br2IwO5HQBzIW28NOUE9q6ib7Ez-D_AKt2TEod0wHTzan542LrXwmTSxaV5wsKmsyzKjbq4twCI54J_4Irony3J5lBlSy_gggt823ZD",
+    "unidades": 150,
+    "precio": 3.6,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 15,
+    "nombre": "Galletas Coco Ranch",
+    "categoria": "Galletas",
+    "etiquetas": [
+      "coco"
+    ],
+    "imagen": "https://somosdiadema.com/wp-content/uploads/2024/02/324d6a5b-6d14-4308-a90f-909cb0e3a6d6.jpg",
+    "unidades": 150,
+    "precio": 2.5,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 16,
+    "nombre": "Galletas Crakeñas",
+    "categoria": "Galletas",
+    "etiquetas": [
+      "saladas"
+    ],
+    "imagen": "https://www.farmadon.com.ve/wp-content/uploads/2024/03/Colombina-Galletas-Crakenas-Club-24Gr.jpg",
+    "unidades": 24,
+    "precio": 0.4,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 17,
+    "nombre": "Flips Nucita Crunch",
+    "categoria": "Cereal",
+    "etiquetas": [
+      "chocolate"
+    ],
+    "imagen": "https://www.farmadon.com.ve/wp-content/uploads/2024/07/Nucita-Crunch-Chocolate-120Gr.png",
+    "unidades": 120,
+    "precio": 2.9,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 18,
+    "nombre": "Maxcoco",
+    "categoria": "Galletas",
+    "etiquetas": [
+      "coco"
+    ],
+    "imagen": "https://images.rappi.com/products/1771885493881_1771885492989_1771885592986.png",
+    "unidades": 46,
+    "precio": 0.85,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 19,
+    "nombre": "Frutos Secos Mixtos",
+    "categoria": "Frutos secos",
+    "etiquetas": [
+      "maní"
+    ],
+    "imagen": "https://www.tiendashoppi.com/cdn/shop/files/tienda-shoppi-mani-mixto-min.jpg?v=1710277126",
+    "unidades": 80,
+    "precio": 1.5,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 20,
+    "nombre": "Coca-cola Pequeña (355mL)",
+    "categoria": "Refrescos",
+    "etiquetas": [
+      "cola"
+    ],
+    "imagen": "https://www.sigo.com.ve/images/thumbs/0025557_coca-cola-sabor-original-355-ml_450.jpeg",
+    "unidades": 355,
+    "precio": 1,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  },
+  {
+    "id": 21,
+    "nombre": "Galletas Ranch Coco, Chocolate, Naranja",
+    "categoria": "Galletas",
+    "etiquetas": [
+      "naranja",
+      "coco",
+      "chocolate"
+    ],
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU-pdCfMebGCPyn8b2bHzmdhgTha2GrhOxOd4t6L3mgURscbaqNgP3mAg&s=10",
+    "unidades": 150,
+    "precio": 2.5,
+    "pedidos": 0,
+    "rating": 0,
+    "stock": 0
+  }
+]
