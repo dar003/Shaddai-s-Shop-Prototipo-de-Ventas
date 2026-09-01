@@ -274,5 +274,20 @@
     "precio": 2.5,
     "pedidos": 0,
     "rating": 0
+  },
+  {
+    "id": 22,
+    "nombre": "Flips Dulce de Leche",
+    "categoria": "Cereal",
+    "etiquetas": [
+      "cereal",
+      "dulce",
+      "dulce de leche"
+    ],
+    "imagen": "https://lh3.googleusercontent.com/XA8sgNQXKdYxJqxlo8Mb4h2iNKXVl7U_fF198ynHjJwg40qZqWimtgJKPn-k0CXVBP-GPx9ks2wSLakO4pTWjY-lRmqCrVQ1KuiQvLt2qwQgrabC",
+    "unidades": 120,
+    "precio": 2.9,
+    "pedidos": 0,
+    "rating": 0
   }
 ]
